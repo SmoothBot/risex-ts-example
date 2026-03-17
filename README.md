@@ -1,6 +1,6 @@
-# rise-bot
+# RISEx Typescript Example
 
-TypeScript client for the [RISEx](https://rise.trade) perpetual futures API (testnet).
+Minimal TypeScript client for the [RISEx](https://rise.trade) perpetual futures API (testnet).
 
 ## Setup
 
