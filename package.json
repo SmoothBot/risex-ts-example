@@ -1,0 +1,17 @@
+{
+  "name": "rise-bot",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test-api": "tsx src/test-api.ts"
+  },
+  "dependencies": {
+    "ethers": "^6.13.5",
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
+}
